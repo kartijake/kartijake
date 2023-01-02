@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">A full fledged fullstack developer</h3>
-<img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" height="800"/>
+<img src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartijake" alt="kartijake" /></a> </p>
 
 - 🌱 I’m currently learning **GraphQL**
